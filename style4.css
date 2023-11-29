@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://www.teahub.io/photos/full/171-1715028_blue-and-white-half-circle-backgrounds-business-presentation.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;}
+
+
+
+    .h1{
+font-style:oblique;
+color: darkblue;
+}
+.p{
+
+font-size: 20px;
+font-style: italic;
+color:darkblue;}
+
+.hr{
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+}
+
+
+
+}

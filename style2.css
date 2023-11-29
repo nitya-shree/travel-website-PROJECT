@@ -1,0 +1,263 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/ae/21/a5/ae21a547cf454e1ae588ee7bba272067.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;}
+    .h1{
+
+font: size 45px ;
+font-style:normal;
+flex-direction: column;
+color:white;
+ }
+.h3{
+font-size: 25px;
+font-style: oblique;
+font-weight:10px ;
+color: white;
+}
+.hr{
+    margin-left:1cm ;
+    margin-right: 1cm;
+    margin-top: 2cm;
+}
+.images{
+width:4cm;
+height: 4cm;
+border: 5cm;
+margin-top: 0.5cm;
+margin-bottom: 0.5cm;
+margin-left: 0.9cm;
+margin-right: 0.5cm;
+border-radius: 2cm;
+}
+.h31{
+    margin-left: 0.5cm;
+    margin-top: 7px;
+}
+.h2{
+
+    margin-left: 0.5cm;
+    margin-top: 7px;
+    margin-bottom: 2px;
+}
+ .p{
+
+    margin-left: 0.5cm;
+padding-top: 5px;
+padding-bottom: 5px;
+ }  
+    .b{
+
+        margin-left: 3.5cm;
+
+    }
+.div1{
+ border-radius:1cm ;
+ 
+ border-style:double;
+ width: 6cm;
+ height: 11cm;
+
+border-width: 0.2cm;
+border-color: white;
+display: inline-block;
+margin-right: 3cm;
+color: white;
+
+
+
+
+
+}
+
+.images{
+    width:4cm;
+    height: 4cm;
+    border: 5cm;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    
+    border-radius: 2cm;
+    }
+    .h32{
+        margin-left: 0.5cm;
+        margin-top: 7px;
+    }
+    .h21{
+    
+        margin-left: 0.5cm;
+        margin-top: 7px;
+        margin-bottom: 2px;
+    }
+     .p1{
+    
+        margin-left: 0.5cm;
+    padding-top: 5px;
+    padding-bottom: 5px;
+     }  
+        .b1{
+    
+            margin-left: 3.5cm;
+    
+        }
+    .div2{
+     border-radius:1cm ;
+     border-color:white;
+     border-style:double;
+     width: 6cm;
+     height: 11cm;
+     
+    border-width: 0.2cm;
+    margin-bottom: 7cm;
+    display: inline-block;
+margin-right: 3cm;
+    color: white;
+    
+    }
+    
+    .images{
+        width:4cm;
+        height: 4cm;
+        border: 5cm;
+        margin-top: 0.5cm;
+        margin-bottom: 0.5cm;
+        margin-left: 0.9cm;
+        margin-right: 0.5cm;
+        border-radius: 2cm;
+        }
+        .h33{
+            margin-left: 0.5cm;
+            margin-top: 7px;
+        }
+        .h22{
+        
+            margin-left: 0.5cm;
+            margin-top: 7px;
+            margin-bottom: 2px;
+        }
+         .p2{
+        
+            margin-left: 0.5cm;
+        padding-top: 5px;
+        padding-bottom: 5px;
+         }  
+            .b2{
+        
+                margin-left: 3.5cm;
+        
+            }
+        .div3{
+         border-radius:1cm ;
+         border-color: white;
+         border-style:double;
+         width: 6cm;
+         height: 11cm;
+         
+        border-width: 0.2cm;
+        margin-bottom: 7cm;
+        display: inline-block;
+        margin-right: 2cm;
+    margin-top: 2cm;
+    color: white;
+        
+        
+        }
+           
+    
+    
+        .images{
+            width:4cm;
+            height: 4cm;
+            border: 5cm;
+            margin-top: 0.5cm;
+            margin-bottom: 0.5cm;
+            margin-left: 0.9cm;
+            margin-right: 0.5cm;
+            border-radius: 2cm;
+            }
+            .h34{
+                margin-left: 0.5cm;
+                margin-top: 7px;
+            }
+            .h23{
+            
+                margin-left: 0.5cm;
+                margin-top: 7px;
+                margin-bottom: 2px;
+            }
+             .p3{
+            
+                margin-left: 0.5cm;
+            padding-top: 5px;
+            padding-bottom: 5px;
+             }  
+                .b3{
+            
+                    margin-left: 3.5cm;
+            
+                }
+            .div4{
+             border-radius:1cm ;
+             border-color: white;
+             border-style:double;
+             width: 6cm;
+             height: 11cm;
+             
+            border-width: 0.2cm;
+             margin-bottom: 7cm;
+            display: inline-block;
+            color: white;
+        
+            
+            
+            }
+               
+    
+            .images-all   {
+                display: flex;
+                justify-content: center;
+                align-items:baseline;
+                
+                 }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

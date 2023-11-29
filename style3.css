@@ -1,0 +1,125 @@
+body{
+
+    background-image: url("https://wallpapercave.com/wp/wp6944127.jpg ");
+    background-repeat: no-repeat;
+    background-size:cover;}
+    .h1{
+color: white;
+font-size:50px ;
+
+padding-left: 400px;
+
+    }
+    
+.fn{
+border-width: 0.2cm;
+border-style: ridge;
+padding-left: 0.5;
+
+
+
+
+
+}
+.ln{
+    border-width: 0.2cm;
+    border-style: ridge;
+    padding-left: 0.5;
+    margin-top: 1cm;
+    
+    
+    color: white;
+
+}
+.cn{
+    border-width: 0.2cm;
+    border-style: ridge;
+    padding-left: 0.5;
+    margin-top: 1cm;
+    
+
+}
+
+.em{ border-width: 0.2cm;
+    border-style: ridge;
+    padding-left: 0.5;
+    margin-top: 1cm;
+    
+    }
+
+.a{ border-width: 0.2cm;
+    border-style: ridge;
+    padding-left: 0.5;
+    margin-top: 1cm;
+  }
+
+.f1{
+font-size: 0.8cm;
+
+
+}
+
+.d1{
+    display: flex;
+    justify-content: center;
+    align-items:baseline;
+    color: white;
+    
+     }
+
+    .f2{
+        font-size: 0.8cm;
+        
+        
+        }
+        
+        .d2{
+            display: flex;
+            justify-content: center;
+            align-items:baseline;
+            color: white;
+            
+             }
+            .f3{
+                font-size: 0.8cm;
+                
+                
+                }
+                
+                .d3{
+                    display: flex;
+                    justify-content: center;
+                    align-items:baseline;
+                    color: white;
+                    
+                     }
+                
+                    .f4{
+                        font-size: 0.8cm;
+                        
+                        
+                        }
+                        
+                        .d4{
+                            display: flex;
+                            justify-content: center;
+                            align-items:baseline;
+                            color: white;
+                            
+                             }
+
+                            .f5{
+                                font-size: 0.8cm;
+                                
+                                
+                                }
+                                
+                                .d5{
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items:baseline;
+                                    color: white;
+                                    
+                                     }
+        
+                                                   
