@@ -64,62 +64,52 @@ font-size: 0.8cm;
     justify-content: center;
     align-items:baseline;
     color: white;
-    
-     }
+}
 
-    .f2{
-        font-size: 0.8cm;
+ .f2{
+        font-size: 0.8cm; 
+  }
         
-        
-        }
-        
-        .d2{
+.d2{
             display: flex;
             justify-content: center;
             align-items:baseline;
             color: white;
             
-             }
+    }
             .f3{
-                font-size: 0.8cm;
+                font-size: 0.8;  
+            }
                 
-                
-                }
-                
-                .d3{
+    .d3{
                     display: flex;
                     justify-content: center;
                     align-items:baseline;
                     color: white;
                     
-                     }
+        }
                 
-                    .f4{
+ .f4{
                         font-size: 0.8cm;
+                    }
                         
-                        
-                        }
-                        
-                        .d4{
+     .d4{
                             display: flex;
                             justify-content: center;
                             align-items:baseline;
                             color: white;
                             
-                             }
+     }
 
                             .f5{
                                 font-size: 0.8cm;
-                                
-                                
-                                }
+                            }
                                 
                                 .d5{
                                     display: flex;
                                     justify-content: center;
                                     align-items:baseline;
                                     color: white;
-                                    
-                                     }
+                                }
         
-                                                   
+                                        
